@@ -39,11 +39,11 @@ Options
 
 Example
 ```bash
-python3 checkcoin.py -i BTC,ADA
+python3 checkcoin-custom.py -i BTC,ADA
 ```
 or
 ```bash
-python3 checkcoin.py -i symbols.txt
+python3 checkcoin-custom.py -i symbols.txt
 ```
 Where symbols.txt is a file containing BTC,ADA.
 
